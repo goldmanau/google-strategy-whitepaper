@@ -78,6 +78,6 @@ This project demonstrates:
 
 ## 📬 Contact
 
-- LinkedIn: [your link]
+- LinkedIn: [https://www.linkedin.com/posts/romanau_ive-just-published-a-whitepaper-analyzing-share-7457115815180447744-R5p7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMa6KwBPQBNk0f7pugJo7B3fdRzqIec0g8]
 - Website: [(https://infotechmanagefactory.com/the-success-of-google-from-search-infrastructure-to-global-revenue-dominance-1998-2026/]
            [https://infotechmanagefactory.com/the-future-of-google-ai-cloud-and-financial-forecast-2026-2030/]
